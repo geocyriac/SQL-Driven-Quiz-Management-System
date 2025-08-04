@@ -42,6 +42,6 @@ The project includes:
 ## 🚀 How to Run the Project
 
 1. **Import the SQL Dump**  
-   If you have the `quiz_project_dump.sql` file:
+   If you have the `quiz_management_dump.sql` file:
    ```bash
-   mysql -u root -p quizdb < quiz_project_dump.sql
+   mysql -u root -p quizdb < quiz_management_dump.sql
